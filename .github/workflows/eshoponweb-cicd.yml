@@ -9,7 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: 5575bb2c-6c07-4a69-a793-a5ad52127a4e
-  WEBAPP-NAME: az400-webapp-Ascerolaa
+  WEBAPP-NAME: az400-webapp-Ascerola
 
 
 jobs:
